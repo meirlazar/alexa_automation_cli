@@ -4,7 +4,7 @@
 
                                             HAS THIS EVER HAPPENED TO YOU?
 - Alexa misunderstanding you when your mouth is full, or while half asleep?
-- Being forceed to fake a different accent just so she can regoxcnize your commands? 
+- Being forced to fake a different accent just so she can regoxcnize your commands? 
 - Trying to scream over Alexa's non-stop chatter, but it fails to make her stop and listen?
 - You ask Alexa to turn on a light, you get an acknowledgement, but nothing happens...and now loud heavy metal music is playing upstairs?
 - You use the Routines in the Alexa app only to find that Alexa doesn't have a freaking clue what day or time it is at that critical time you need her.
