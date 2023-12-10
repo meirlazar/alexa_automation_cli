@@ -2,7 +2,7 @@
 
 ![image](https://github.com/meirlazar/alexa_automation_cli/assets/2780621/2d19e2b2-6c53-40f2-8e1c-684473ac3a2b)
 
-                                                 HAS THIS EVER HAPPENED TO YOU?
+                                            HAS THIS EVER HAPPENED TO YOU?
 - Alexa misunderstanding you when your mouth is full, or while half asleep?
 - Being forceed to fake a different accent just so she can regoxcnize your commands? 
 - Trying to scream over Alexa's non-stop chatter, but it fails to make her stop and listen?
