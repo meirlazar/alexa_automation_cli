@@ -7,6 +7,7 @@
 - Being forced to fake a different accent just so she can recognize what you think is proper English? 
 - Trying to scream over Alexa's non-stop chatter, but it fails to make her stop and listen?
 - You ask Alexa to turn on a light, you get an acknowledgement, but nothing happens...and now loud heavy metal music is playing upstairs?
+- Asking Alexa to stop the music, just makes it louder and more metal... waking up your rotten children at 3am?
 - You use the Routines in the Alexa app only to find that Alexa doesn't have a freaking clue what day or time it is at that critical time you need her.
 
 
