@@ -11,7 +11,9 @@
 
 
 **** GET RID OF THE MISCOMMUNICATIONS, RELYING ON ROUTINES THAT SOMETIMES FAILS, OR JUST SHOW OFF TO YOUR FRIENDS (I ASSUME NOTHING ABOUT YOUR SOCIAL LIFE) ****
-Instructions
+
+INSTALLATION INSTRUCTIONS
+
 1. Follow the instructions for installing and configuring alexa_remote_control (https://github.com/thorsten-gehrig/alexa-remote-control) 
 2. Download the alexa_autionation.sh script from this repo
 3. Modify the script to your environment, all parts that need to be modified are in the comments of the script.
