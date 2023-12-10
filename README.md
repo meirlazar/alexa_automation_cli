@@ -1,7 +1,9 @@
 # alexa_automation_cli
 A colorful wrapper for the alexa_remote_control tool to control and automate everything Alexa does.
 
-HAS THIS EVER HAPPENED TO YOU?
+![image](https://github.com/meirlazar/alexa_automation_cli/assets/2780621/2d19e2b2-6c53-40f2-8e1c-684473ac3a2b)
+
+            HAS THIS EVER HAPPENED TO YOU?
 
 - Alexa misunderstanding you when your mouth is full, or while half asleep?
 - Being forceed to fake a different accent just so she can regoxcnize your commands? 
@@ -9,11 +11,7 @@ HAS THIS EVER HAPPENED TO YOU?
 - You ask Alexa to turn on a light, you get an acknowledgement, but nothing happens...and now loud heavy metal music is playing upstairs?
 - You use the Routines in the Alexa app only to find that Alexa doesn't have a freaking clue what day or time it is at that critical time you need her.
 
-
 **** GET RID OF THE MISCOMMUNICATIONS, RELYING ON ROUTINES THAT SOMETIMES FAILS, OR JUST SHOW OFF TO YOUR FRIENDS (I ASSUME NOTHING ABOUT YOUR SOCIAL LIFE) ****
-
-![image](https://github.com/meirlazar/alexa_automation_cli/assets/2780621/2d19e2b2-6c53-40f2-8e1c-684473ac3a2b)
-
 Instructions
 1. Follow the instructions for installing and configuring alexa_remote_control (https://github.com/thorsten-gehrig/alexa-remote-control) 
 2. Download the alexa_autionation.sh script from this repo
