@@ -6,8 +6,7 @@
 - Setup/Modify schedules for all your Alexa tasks/playbooks
 - Know what Routines (aka Playbooks) will run next
 - Updated Sunrise, Sunset, and Current Weather conditions can be incorporated into what Playbooks/Commands Alexa executes
-- Allows for integration of Arduino weather stations, and other IOT devices
-- Modify 
+- Allows for integration of Arduino weather stations, and other IOT devices 
 
 ![image](https://github.com/meirlazar/alexa_automation_cli/assets/2780621/2d19e2b2-6c53-40f2-8e1c-684473ac3a2b)
 
