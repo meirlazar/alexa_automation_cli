@@ -24,8 +24,7 @@
 
 1. Follow the instructions for installing and configuring alexa-remote-control (https://github.com/thorsten-gehrig/alexa-remote-control) 
 2. Clone this repository 
-   ``` git clone https://github.com/meirlazar/alexa_automation_cli.git
-   ```   
+   ``` git clone https://github.com/meirlazar/alexa_automation_cli.git ```   
 4. Modify the script to match your environment.
    ``` cd alexa_automation_cli ; vim alexa_automation.sh ```
 6. Set the script as executable
@@ -36,6 +35,8 @@
 9. Let the script do the talking and Alexa do the walking, and you do the chilling.
 
 ## DETAILED INSTRUCTIONS ON USAGE
+
+---- FYI: THIS README IS STILL A WORK IN PROGRESS TO MAKE THIS PROJECT MORE USER-FRIENDLY TO THE LESS TECH SAVVY CROWD. IF YOU HAVE QUESTIONS OR ISSUES, FEEL FREE TO SPECIFY THEM IN THE ISSUES TAB. ----
 
 - Aliases can be set for any smart device that you can control with Alexa for ease of use.
 - Create/Modify the schedules at the bottom of the script to have Alexa run those Commands/Playbooks on the day and time you specify
