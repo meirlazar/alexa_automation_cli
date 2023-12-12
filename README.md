@@ -1,12 +1,14 @@
 # alexa_automation_cli 
 
+## FEATURES
+
 - Uses alexa-remote-control under the hood to speak directly to Amazon Alexa's API
 - Requires little to no Shell scripting skills, tasks are setup in plain English
-- Allows Alexa to execute commands or groups of commands (called functions/playbooks) similar to Routines in the Alexa app
-- Setup/Modify schedules for all your Alexa tasks/playbooks
-- Know what Routines (aka Playbooks) will run next
-- Updated Sunrise, Sunset, and Current Weather conditions can be incorporated into what Playbooks/Commands Alexa executes
-- Allows for integration of Arduino weather stations, and other IOT devices 
+- Allows Alexa to execute commands or groups of commands (called Functions or Books) similar to Routines in the Alexa app
+- Setup/Modify schedules for all your Alexa Tasks
+- Know What/When the next set of Books will run next (as well as the individual tasks in those Books)
+- Get updated Sunrise, Sunset, and Current Weather conditions which can be incorporated into the scripts logic to determine what will happen next
+- Allows for further integration of Arduino weather stations, and other IOT devices (would require some BASH scripting knowledge)
 
 ![image](https://github.com/meirlazar/alexa_automation_cli/assets/2780621/2d19e2b2-6c53-40f2-8e1c-684473ac3a2b)
 
@@ -20,7 +22,7 @@
 
 **** GET RID OF THE MISCOMMUNICATIONS, RELYING ON ROUTINES THAT SOMETIMES FAILS, OR JUST SHOW OFF TO YOUR FRIENDS (I ASSUME NOTHING ABOUT YOUR SOCIAL LIFE) ****
 
-## INSTALLATION INSTRUCTIONS
+## BASIC INSTALLATION INSTRUCTIONS
 
 1. Follow the instructions for installing and configuring alexa-remote-control (https://github.com/thorsten-gehrig/alexa-remote-control) 
 2. Clone this repository 
